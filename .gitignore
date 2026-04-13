@@ -1,0 +1,21 @@
+# Environment variables — never commit
+.env
+.env.local
+.env*.local
+.env.production
+
+# Dev/internal folders — not for public repo
+docs/
+database/archive/
+backend/scripts/
+.claude/
+
+# Misc
+image.png
+*.png
+*.jpg
+*.jpeg
+
+# OS
+.DS_Store
+Thumbs.db
