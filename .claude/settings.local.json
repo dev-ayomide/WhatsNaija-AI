@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv SETUP_GUIDE.md docs/)",
+      "Bash(mv QUICKSTART.md docs/)",
+      "Bash(mv PROJECT_STATUS.md docs/)",
+      "Bash(mv frontend/SETUP.md docs/frontend-setup.md)",
+      "Bash(mv backend/README.md docs/backend-readme.md)"
+    ]
+  }
+}
